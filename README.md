@@ -5,7 +5,6 @@
 
 # 💫 About Me:
 <p align="center">
-🔭 I’m currently working on Telecrm - An auto-calling based tele-sales CRM software<br><br>
 🌱 I’m currently learning JavaScript, Python, React!<br><br>
 💬 Ask me about MySQL, Pandas, C lang.<br><br>
 📫 How to reach me: javintrivedi007@gmail.com<br><br>
