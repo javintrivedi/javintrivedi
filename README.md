@@ -1,93 +1,88 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Javin+Trivedi!" />
-</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Enthusiast | Musician | Explorer 🌟</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f97316;">Javin Trivedi</span></h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer from 🇮🇳</h3>
 
----
-
-## 💫 About Me:
 <p align="center">
-  🌱 Currently diving deep into <strong>JavaScript</strong>, <strong>Python</strong>, <strong>React</strong> & exploring the endless possibilities of <strong>AI</strong>!<br><br>
-  💬 Ask me about <strong>MySQL</strong>, <strong>Pandas</strong>, <strong>C Language</strong>, and anything tech!<br><br>
-  📫 Reach me at: javintrivedi007@gmail.com<br><br>
-  ⚡ Fun Fact: I'm a musician 🎸, and I love mixing code with melodies!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&width=435&lines=Turning+coffee+into+code...;Always+learning+something+new!;Let's+build+cool+stuff+together." />
 </p>
 
 ---
 
-## 🌐 Socials:
+### 👨‍💻 About Me
+
+- 🔭 Working on: [KickStart](https://github.com/javintrivedi/KickStart)
+- 🌱 Learning: Django
+- 💻 Portfolio: [View Portfolio](https://portfolio-javintrivedis-projects.vercel.app/)
+- 💬 Ask me about: Python, MySQL, Web Development
+- 📫 Email: [javintrivedi007@gmail.com](mailto:javintrivedi007@gmail.com)
+- 📄 [Resume](https://drive.google.com/file/d/1oc4Bg6OI3O0SAqovYmW2lp6R2zHr2vm8/view)
+- 🎸 Fun fact: I'm also a Musician!
+
+---
+
+### 🌐 Connect with me
+
 <p align="center">
-  <a href="https://instagram.com/javintrivedi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/javintrivedi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://pinterest.com/javintrivedi007" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
-  </a>
-  <a href="https://youtube.com/@quarancreativejt" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:javintrivedi007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://linkedin.com/in/javintrivedi" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://kaggle.com/quarancreativejt" target="_blank">📊 Kaggle</a> •
+  <a href="https://instagram.com/javintrivedi" target="_blank">📸 Instagram</a> •
+  <a href="https://www.youtube.com/c/@quarancreativejt" target="_blank">🎥 YouTube</a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+### 🛠️ Tools & Technologies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javintrivedi&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javintrivedi&layout=compact&theme=dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javintrivedi&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=javintrivedi&show_icons=true&theme=dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javintrivedi&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javintrivedi&theme=dark" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javintrivedi&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+### 💬 Dev Quote
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=javintrivedi&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</p>
-
----
+### 🔗 Portfolio QR
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharal-naik2010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://portfolio-javintrivedis-projects.vercel.app/" width="150" />
 </p>
 
 ---
 
+### 🎵 Now Playing
+ <h4>Luther - Kendrick Lamar & SZA</h4>
+<p align="center">
+  <a href="https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javintrivedi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
