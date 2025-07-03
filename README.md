@@ -14,7 +14,7 @@
 - 💻 Portfolio: [View Portfolio](https://portfolio-javintrivedis-projects.vercel.app/)
 - 💬 Ask me about: Python, MySQL, Web Development
 - 📫 Email: [javintrivedi007@gmail.com](mailto:javintrivedi007@gmail.com)
-- 📄 [Resume](https://drive.google.com/file/d/1oc4Bg6OI3O0SAqovYmW2lp6R2zHr2vm8/view)
+- 📄 [Resume](https://drive.google.com/file/d/1MaXNA3qQ8SFIbPvK8qlIbBNxUQpOqskT/view?usp=share_link)
 - 🎸 Fun fact: I'm also a Musician!
 
 ---
