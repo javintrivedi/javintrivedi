@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on: [KickStart](https://github.com/javintrivedi/KickStart)
+- 🔭 Working on: [Lingo](https://github.com/javintrivedi/lingo)
 - 🌱 Learning: Django
 - 💻 Portfolio: [View Portfolio](https://portfolio-javintrivedis-projects.vercel.app/)
 - 💬 Ask me about: Python, MySQL, Web Development
