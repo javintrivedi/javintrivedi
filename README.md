@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on: [Lingo](https://github.com/javintrivedi/lingo)
+- 🔭 Working on: [HackMate](https://github.com/javintrivedi/hackmate)
 - 🌱 Learning: Django
 - 💻 Portfolio: [View Portfolio](https://portfolio-javintrivedis-projects.vercel.app/)
 - 💬 Ask me about: Python, MySQL, Web Development
