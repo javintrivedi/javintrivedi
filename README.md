@@ -15,7 +15,7 @@
 - 💬 Ask me about: Python, MySQL, Web Development
 - 📫 Email: [javintrivedi007@gmail.com](mailto:javintrivedi007@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/1S3rao8rAj8oYJijPWsG_VQIk6DWdKdvP/view)
-- 🎸 Fun fact: I'm also a Musician!!
+- 🎸 Fun fact: I'm a Musician!!
 
 ---
 
